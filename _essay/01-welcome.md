@@ -1,6 +1,6 @@
 ---
 title: Welcome to CB-Essay
-order: 1
+order: 10
 part: Overview and Examples
 ---
 
